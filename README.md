@@ -1,7 +1,6 @@
 # BG Changer
 
 - Background Changer in Vanilla Js.
-- Part Of 5 Projects in 5 days.
 
 <br>
 
